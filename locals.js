@@ -67,8 +67,11 @@ I18N.zh = {
 
             "Pull Requests": "拉取请求",
             "Pull requests": "拉取请求",
+            "Commits": "提交",
             "Issues": "问题",
             "Marketplace": "广场",
+            "Topics": "话题",
+            "Wikis": "维基",
             "Gist": "代码片段",
             "Your dashboard": "返回首页",
 
