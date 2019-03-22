@@ -1231,17 +1231,34 @@ I18N.zh = {
 
     "homepage": { // 未登录首页
         "static": { // 静态翻译
+            "username": "用户名",
             "Pick a username": "选择一个用户名",
+            "Email": "Email 地址",
+            "you@example.com": "您的邮件地址",
             "Your email address": "您的邮件地址",
             "Create a password": "创建一个密码",
             "Sign up for GitHub": "注册 GitHub",
 
+            "Make sure it's": "注册 GitHub",
+            "more than 15 characters": "超过15个字符",
+            "OR": "或",
+            "at least 8 characters": "至少8个字符",
+            "including a number": "包括一个数字",
+            "and a lowercase letter": "和一个小写字母",
+            "Learn more": "了解更多",
+
             "Use at least one letter, one numeral, and seven characters.": "密码需要字母和数字组成的 7 位以上字符串。",
-            "By clicking \"Sign up for GitHub\", you agree to our": "点击 “注册 GitHub”，表示您同意我们的",
+            "By clicking “Sign up for GitHub”, you agree to our": "点击 “注册 GitHub”，表示您同意我们的",
             "terms of service": "服务条款",
             "and": "和",
-            "privacy policy": "隐私政策条款",
-            "We'll occasionally send you account related emails.": "我们会偶尔发送您的帐户相关的电子邮件。",
+            "privacy statement": "隐私政策条款",
+            "We’ll occasionally send you account related emails.": "我们会偶尔发送您的帐户相关的电子邮件。",
+
+            "Get started with GitHub Enterprise": "开始使用 GitHub 企业",
+            "Take collaboration to the next level with security and administrative features built for businesses.": "通过为企业构建的安全和管理功能，将协作提升到下一个层次。",
+            "Or start a free trial of Enterprise Server ": "或者开始免费试用企业服务器",
+            "More than 2.1 million businesses and organizations use GitHub ": "超过210万的企业和组织使用Github",
+
 
             "How people build software": "人们如何构建软件",
             "Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies.": "数以百万计的开发人员使用 GitHub 建立个人项目，支持他们的企业，共同在开放源码技术。",
@@ -1265,6 +1282,8 @@ I18N.zh = {
             "One platform, from start to finish": "一个平台，从始至终",
             "With hundreds of integrations, GitHub is flexible enough to be at the center of your development process.": "成百上千的集成，GitHub 是足够灵活的，能够在您的发展过程的中心。",
 
+
+            "Why GitHub?": "为什么使用 GitHub ?",
             "Who uses GitHub?": "谁在使用 GitHub ?",
             "Individuals": "个人",
             "Use GitHub to create a personal project, whether you want to experiment with a new programming language or host your life’s work.": "使用 GitHub 来创建一个个人项目，不管您想要尝试一个新的编程语言或主机在您生活及工作。",
