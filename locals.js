@@ -1,4 +1,4 @@
-﻿var I18N = {};
+var I18N = {};
 
 I18N.conf = {
     /**
@@ -297,9 +297,7 @@ I18N.zh = {
             "Updating your profile with your name, location, and a profile picture helps other GitHub users get to know you.": "更新您的资料信息包括姓名，地址，头像等资料，让其他用户更容易的了解您。",
 
             "Joined on": "注册于",
-            "Set your status": "设置您的状态",
             "Change your avatar": "修改头像",
-            "Edit": "编辑个人信息",
             "Starred": "赞了",
             "Following": "关注",
             "Organizations": "组织",
@@ -307,11 +305,9 @@ I18N.zh = {
             "Public contributions": "贡献",
             "Overview": "概述",
             "Repositories": "仓库",
-            "Projects": "项目",
             "Public activity": "动态",
             "Edit profile": "修改设置",
             "Popular repositories": "流行的仓库",
-            "Customize your pins": "自定义您的引脚",
             "Pinned repositories": "固定的仓库",
             "Customize your pinned repositories": "自定义您的固定仓库",
             "Repositories contributed to": "贡献过的仓库",
@@ -435,6 +431,7 @@ I18N.zh = {
             "First issue": "第一次提问",
             "First repository": "第一个仓库",
             "Joined GitHub": "刚注册 GitHub",
+            "loading...": "加载中...",
             "Show more activity": "显示更多",
         },
         "regexp": [ // 正则翻译
@@ -1444,6 +1441,7 @@ I18N.zh = {
             "Created": "已创建",
             "Assigned": "已分配",
             "Mentioned": "提到的",
+            "Review requests": "审核请求",
 
             "Visibility": "可见性",
             "Repository visibility": "仓库可见性",
@@ -1465,10 +1463,16 @@ I18N.zh = {
             "Most reactions": "最多回应",
 
             "No results matched your search.": "没有符合您的搜索结果。",
+            "You could search": "云搜索 ",
+            "all of GitHub": "所有的GitHub ",
+            "or try an": "或尝试一下",
+            "advanced search": "高级搜索",
             "Use the links above to find what you’re looking for, or try": "使用上面的链接找到您要找的内容，或尝试",
             "a new search query": "新的搜索查询",
             ". The Filters menu is also super helpful for quickly finding issues most relevant to you.": "。过滤菜单也是快速找到问题最相关的您超级有帮助的。",
             "ProTip!": "专业提示！",
+            "Add": "添加",
+            "to see everything that’s not assigned.": "以查看未分配的所有内容。",
             "Updated in the last three days": "更新了最后三天：",
         },
         "regexp": [ // 正则翻译
