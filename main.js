@@ -9,7 +9,7 @@
 // @homepageURL  https://github.com/52cik/github-hans
 // @match        http://*.github.com/*
 // @match        https://*.github.com/*
-// @require      https://52cik.github.io/github-hans/locals.js?v1.6.4
+// @require      https://raw.githubusercontent.com/shang-he/github-hans/2.0/locals.js
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
